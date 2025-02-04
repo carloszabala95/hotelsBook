@@ -30,6 +30,8 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.rtl.min.css",
+              "node_modules/remixicon/fonts/remixicon.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -97,5 +99,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "2ebd96cc-53cd-48df-ab72-29459361a7ef"
   }
 }
